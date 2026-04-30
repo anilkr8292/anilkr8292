@@ -27,4 +27,4 @@ Code samples can be shared upon request.
 
 ## 📫 Connect with Me
 - 📧 Email: anilstmnet@gmail.com
-- 💼 LinkedIn: (Add your link here)
+- 💼 LinkedIn: https://www.linkedin.com/in/anil-kumar-21b6a6209
