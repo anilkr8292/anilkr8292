@@ -1,10 +1,30 @@
-- 👋 Hi, I’m @anilkr8292
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning full stack developement
-- 💞️ I’m looking to collaborate on open source
-- 📫 connect with me on anilstmnet@gmail.com
+# 👋 Hi, I'm Anil Kumar
 
-<!---
-anilkr8292/anilkr8292 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Backend-Focused Full Stack Developer with 3+ years of experience building secure, scalable, and high-performance applications.
+
+## 💻 Tech Stack
+- Backend: Java, Spring Boot, Spring Security, Spring Data JPA, Hibernate
+- Frontend: React, Next.js, TypeScript, Thymeleaf
+- Database: PostgreSQL, MySQL, MongoDB, Redis
+- Tools: Docker, Git, Linux, Nginx, Tomcat
+
+## 🔐 What I Work On
+- Building secure authentication & authorization systems (RBAC, JWT)
+- Designing scalable microservices & REST APIs
+- Implementing real-time features using WebSockets
+- Optimizing performance and handling production issues
+- Working with stateful & stateless application architectures
+
+## 🚀 Projects
+- CyberShakti → Cybersecurity platform with real-time session management & security features  
+- CyberGyan → Learning portal with VM-based cyber lab environments  
+- Hackathon Platform → Event & challenge management system  
+- LocalJobSeeker → MERN-based job marketplace  
+
+## 🔒 Note
+Most of my professional work is in private repositories.  
+Code samples can be shared upon request.
+
+## 📫 Connect with Me
+- 📧 Email: anilstmnet@gmail.com
+- 💼 LinkedIn: (Add your link here)
